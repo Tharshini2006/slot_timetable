@@ -24,7 +24,8 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```<!DOCTYPE html>
+```python
+<!DOCTYPE html>
 <html>
     <head>
     <title>Slot Timetable</title>
